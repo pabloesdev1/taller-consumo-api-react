@@ -1,0 +1,10 @@
+.productInfo{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.productImage{
+    max-width: 250px;
+    max-height: 250px;
+}
